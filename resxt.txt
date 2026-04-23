@@ -1,2 +1,2 @@
 This is my text file.
-New Line by vs code.
+New Line by vs code.git 
