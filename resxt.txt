@@ -1,2 +1,4 @@
 This is my text file.
 New Line by vs code.git 
+//pull
+//add, commit,push
